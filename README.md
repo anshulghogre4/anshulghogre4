@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anshul Ghogre
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Springboot, NodeJs and reactJs.
+- 👀 I’m interested in learning coding, system design, cloud and AI.
+- 🌱 I’m currently learning Python, mlflow, agentic AI.
 - 💞️ I’m looking to collaborate on Projects,and freelance work.
-- 📫 How to reach me ...Please ping me a mail for now will update more.
+- 📫 Certified on AZ-305, AI-102, DP-100 and AZ-104.
 
 <!---
 anshulghogre4/anshulghogre4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
