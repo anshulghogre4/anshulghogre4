@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anshul Ghogre
 - 👀 I’m interested in system design, cloud, MLOps and AI.
 - 🌱 I’m currently learning Python, mlflow, agentic AI.
-- 💞️ I’m looking to collaborate on Projects,and freelance work.
+- 💞️ I’m looking to collaborate on projects and freelance work.
 - 📫 Certified on AZ-305, AI-102, DP-100 and AZ-104.
 
 <!---
