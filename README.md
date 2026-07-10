@@ -77,9 +77,9 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="./generated/overview.svg#gh-dark-mode-only" height="200" />
-<img src="./generated/languages.svg#gh-dark-mode-only" height="200" />
-<sub>Stats auto-generated daily via GitHub Actions — no third-party service, no broken images.</sub>
+<img src="https://raw.githubusercontent.com/anshulghogre4/github-stats/generated/overview.svg#gh-dark-mode-only" height="200" />
+<img src="https://raw.githubusercontent.com/anshulghogre4/github-stats/generated/languages.svg#gh-dark-mode-only" height="200" />
+
 
 <br/><br/>
 
@@ -87,7 +87,6 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 <img src="https://streak-stats.demolab.com/?user=anshulghogre4&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-profile-trophy.vercel.app/?username=anshulghogre4&theme=tokyonight&no-frame=true" />
 </div>
-
 ---
 
 ### ✍️ Writing
