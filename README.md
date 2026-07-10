@@ -32,7 +32,7 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 - **Applied AI, not AI theatre** — take LLMs/agents from notebook to production: RAG pipelines, multi-agent orchestration, fallback-aware inference layers.
 - **Forward Deployed** — embed with client stacks (Next.js, Supabase, .NET, Spring Boot) and wire AI capability directly into existing systems instead of bolting on a chatbot.
 - **MLOps & Data Engineering** — regression/classification pipelines, data validation (Great Expectations), feature engineering, model evaluation that survives contact with real data.
-- **Full-stack when the AI needs a home** — React/Next.js frontends, FastAPI/Node backends, Postgres/Supabase, Docker-based self-hosted infra (n8n, Coolify, Qdrant).
+- **Full-stack when the AI needs a home** — React/Next.js/Angular frontends, FastAPI/.NET backends, Postgres/Supabase, Docker-based self-hosted infra (n8n, Coolify, Qdrant).
 
 ---
 
