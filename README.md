@@ -42,6 +42,7 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 [![DP-100](https://img.shields.io/badge/DP--100-Azure_Data_Scientist-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
 [![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect-expert/)
 [![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
+
 ---
 
 ### 🛠️ Stack
@@ -77,9 +78,8 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anshulghogre4/github-stats/generated/overview.svg#gh-dark-mode-only" height="200" />
-<img src="https://raw.githubusercontent.com/anshulghogre4/github-stats/generated/languages.svg#gh-dark-mode-only" height="200" />
-
+<img src="https://raw.githubusercontent.com/anshulghogre4/github-stats/generated/overview.svg" height="200" />
+<img src="https://raw.githubusercontent.com/anshulghogre4/github-stats/generated/languages.svg" height="200" />
 
 <br/><br/>
 
@@ -87,6 +87,7 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 <img src="https://streak-stats.demolab.com/?user=anshulghogre4&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-profile-trophy.vercel.app/?username=anshulghogre4&theme=tokyonight&no-frame=true" />
 </div>
+
 ---
 
 ### ✍️ Writing
