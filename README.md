@@ -77,14 +77,15 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 ### 📊 GitHub Stats
 
 <div align="center">
+<img src="./generated/overview.svg#gh-dark-mode-only" height="200" />
+<img src="./generated/languages.svg#gh-dark-mode-only" height="200" />
+<sub>Stats auto-generated daily via GitHub Actions — no third-party service, no broken images.</sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshulghogre4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulghogre4&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulghogre4&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshulghogre4&theme=tokyonight&no-frame=true&row=1&column=6" />
-
+<!-- Optional: these two still rely on external widgets, keep or drop -->
+<img src="https://streak-stats.demolab.com/?user=anshulghogre4&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=anshulghogre4&theme=tokyonight&no-frame=true" />
 </div>
 
 ---
