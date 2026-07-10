@@ -41,7 +41,7 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 [![AI-102](https://img.shields.io/badge/AI--102-Azure_AI_Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
 [![DP-100](https://img.shields.io/badge/DP--100-Azure_Data_Scientist-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
 [![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect-expert/)
-
+[![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
 ---
 
 ### 🛠️ Stack
