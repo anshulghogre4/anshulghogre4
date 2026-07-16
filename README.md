@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Anshul Ghogre — Forward Deployed Engineer: I ship AI into production, not demos. Agentic Systems, MLOps, Full-Stack delivery from Pune, India.">
+</p>
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Anshul+Ghogre;Forward+Deployed+Engineer;Applied+AI+%7C+Agentic+Systems+%7C+MLOps;I+ship+AI+into+production.+Not+demos." alt="Typing SVG" />
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshulg4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-mrghogre.vercel.app/)
-[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Mrghogre)
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Mrghogre)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/anshulghogre4)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulghogre4@gmail.com)
 
@@ -38,10 +38,10 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 
 ### 🎖️ Certifications
 
-[![AI-102](https://img.shields.io/badge/AI--102-Azure_AI_Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
-[![DP-100](https://img.shields.io/badge/DP--100-Azure_Data_Scientist-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
-[![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect-expert/)
-[![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
+[![AI-102](https://img.shields.io/badge/AI--102-Azure_AI_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
+[![DP-100](https://img.shields.io/badge/DP--100-Azure_Data_Scientist-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
+[![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect-expert/)
+[![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
 
 ---
 
@@ -49,16 +49,24 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 
 <div align="center">
 
+**AI & ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Frontend & Backend**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Cloud & DevOps**
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
@@ -84,9 +92,8 @@ currently  : Building SliceMatic (agentic multi-service pizza ordering system)
 
 <br/><br/>
 
-<!-- Optional: these two still rely on external widgets, keep or drop -->
 <img src="https://streak-stats.demolab.com/?user=anshulghogre4&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-profile-trophy.vercel.app/?username=anshulghogre4&theme=tokyonight&no-frame=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshulghogre4&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
